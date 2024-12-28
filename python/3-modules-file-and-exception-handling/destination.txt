@@ -1,0 +1,6 @@
+Hello Hardik!
+What's going on?
+This is an append operation
+First line
+Second line
+Third line
