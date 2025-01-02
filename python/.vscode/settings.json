@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["Hardik", "ipykernel", "typecode"]
+  "cSpell.words": [
+    "dunder",
+    "getitem",
+    "Hardik",
+    "ipykernel",
+    "repr",
+    "setitem",
+    "typecode"
+  ]
 }
