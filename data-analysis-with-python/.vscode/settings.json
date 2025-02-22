@@ -1,10 +1,19 @@
 {
   "cSpell.words": [
+    "barplot",
     "dataframes",
+    "eigvals",
     "ipykernel",
     "itemsize",
+    "kdeplot",
+    "linalg",
+    "lineplot",
     "linestyle",
     "markersize",
-    "numpy"
+    "newaxis",
+    "numpy",
+    "pairplot",
+    "scatterplot",
+    "subarray"
   ]
 }
